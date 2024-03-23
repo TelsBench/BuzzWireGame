@@ -1,0 +1,16 @@
+Installation For the Arudino IDE
+
+1.) Open the IDE after installation
+2.) Get the latest updates for the IDE
+3.) Using the Arduino IDE Open the BuzzWire-ArduinoNano.ino File inside the BuzzWire-ArduinoNano Folder you have downloaded from the GitHUB
+4.) Setup your Board As an 'Arduino Nano' Under TOOLS with the appropriate USB port Connected, check your Port Under tools is selected, I.E. COMM8 lets say, it could be a different number.
+
+5.)Check it compiles with the TICK Button.
+6.)If it complains of missing libraries. you need to ensure the following are installed.
+
+   AnyRTTTL
+   AdaFruit ST7735
+   AdaFruit_GFX Grapics Library
+
+   Resolve any other issues, this should now work by uploading using the upload Arror Button 
+   on the ribbon in the Arduino IDE->
