@@ -1,0 +1,37 @@
+Items you will need to complete this.
+
+BASE
+----
+1 x Wood Base ( 290Long x 110mm Deep x 18-20mm High )
+1 x Plastic Box ( 100mm Wide x 60mm Deep x 25mm High Minimum )
+1 x Speaker Grill , Circular for a 50mm Speaker
+2 x 30mm Washer with a 5-7mm hole in the centre
+1 x An old wire coat hanger ( or a new one ;D )
+1 x An old paintbrush handle to use for the want, drill hole though it and     fit  a wrire through it and make a loop at the end 
+
+
+Electronics
+-----------
+1 x ST7735 Display
+1 x Arduino Nano dev Kit
+1 x Strip/Veroboard
+2 x Smallish pushbutton switches
+1 x 1N4001 or similar diode
+1 x 50mm 8Ohm 0.5watt speaker
+? x Assorted small flexible cables for wiring inside the base and control     box
+1 x 470uF @ 5v or greater Electrolytic Capacitor
+1 x 1uF   @ 5v or greater Ceramic Disk Capacitor
+1 x 47 Ohm Resistor
+1 x 220 Ohm Resistor
+1 x 2N2222 or similar NPN transistor
+
+Tools
+--------------
+Soldering Iron
+Side Clipers
+Solder
+Long Nosed Pliers
+Solder Sucker
+Stanley Knife for cutting a square hole for the display
+Drills and various woodworking tools
+Chissel and Mallet to recess the control box position
