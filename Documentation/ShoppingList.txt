@@ -18,7 +18,7 @@ Electronics
 2 x Smallish pushbutton switches
 1 x 1N4001 or similar diode
 1 x 50mm 8Ohm 0.5watt speaker
-? x Assorted small flexible cables for wiring inside the base and control     box
+? x Assorted small flexible cables for wiring inside the base and control box
 1 x 470uF @ 5v or greater Electrolytic Capacitor
 1 x 1uF   @ 5v or greater Ceramic Disk Capacitor
 1 x 47 Ohm Resistor
